@@ -1,15 +1,12 @@
-# Website Repos
+# Web Developer Documentation
 
-- https://github.com/path-cc/path-cc.github.io
-- https://github.com/htcondor/htcondor-web
-- https://github.com/osg-htc/osg-htc.github.io
-- https://github.com/CHTC/chtc-website-source
+Home of all documentation needed to get started as a web developer at CHTC. 
 
-# Software
+## Software
 - https://rancherdesktop.io/
 - IDE of your choice 
 
-# Frameworks
+## Frameworks
 
 Main websites:
 - Jekyll
