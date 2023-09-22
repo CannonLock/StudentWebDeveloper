@@ -5,3 +5,9 @@
 - https://github.com/osg-htc/osg-htc.github.io
 - https://github.com/CHTC/chtc-website-source
 
+# Software
+- https://rancherdesktop.io/
+- IDE of your choice 
+
+# Frameworks
+- 
