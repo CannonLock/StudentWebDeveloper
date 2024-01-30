@@ -3,7 +3,6 @@
 Home of all documentation needed to get started as a web developer at CHTC. 
 
 ## Software
-- https://rancherdesktop.io/
 - IDE of your choice 
 
 ## Frameworks
