@@ -25,7 +25,7 @@ git remote set-url origin <the fork url>
 
 ```shell
 # Create a new branch to make changes on 
-git branch -b update-team
+git checkout -b update-team
 ```
 
 ## Update the team
